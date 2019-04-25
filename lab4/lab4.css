@@ -1,0 +1,41 @@
+
+h1 { font-size: 3em; font-weight: bold; margin-top: 0;}
+
+
+
+
+div#topHeaderRow {
+   font-size: 0.9em;
+}
+
+
+.price {
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.similarTitle {  }
+.list-unstyled{
+    line-height:25pt;
+}
+.cartText { 
+
+}
+
+footer {
+   margin-top: 1em;
+   background-color: #E7E7E7;
+}
+.foot-row{
+   line-height: 30px
+}
+
+.tight-form-group{  }
+
+#copyrightRow{
+    background-color:#3A3A3A;
+    color:white;
+    height: max-content;
+    margin-right: 15px;
+}
